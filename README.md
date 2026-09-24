@@ -21,7 +21,6 @@ REFAVS/
 ├── gt_mask/
 ├── audio_embed/
 └── image_embed/
-  
 ```
 
 The last two directories contain pre-extracted **VGGish audio features** and **SAM image embeddings**:
